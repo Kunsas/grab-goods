@@ -1,1 +1,2 @@
 backend/order-service/mysql/*.sock
+backend/inventory-service/docker/mysql/mysql.sock
